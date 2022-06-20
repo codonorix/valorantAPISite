@@ -1,0 +1,24 @@
+.bundleButton {
+    /*text-align: center;*/
+}
+.agentText {
+    background-color: #1f1f1f;
+    color: #fa4454;
+    font-family: valorantFont, serif;
+    text-decoration: none;
+}
+
+.bundleButton:hover {
+    color: #fa4454;
+}
+
+.bundleButton:hover {
+    background-color: rgba(04, 46, 39, .7);
+    cursor: cell;
+    border-radius: 30px;
+    transition: all 0.2s ease-in-out;
+}
+
+img {
+    width: 100%;
+}
